@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hong/Desktop/Git/v4l2-camera/build",
+  "command": "/usr/bin/c++      -o CMakeFiles/target.dir/v4l2_core.cc.o -c /home/hong/Desktop/Git/v4l2-camera/v4l2_core.cc",
+  "file": "/home/hong/Desktop/Git/v4l2-camera/v4l2_core.cc"
+}
+]
