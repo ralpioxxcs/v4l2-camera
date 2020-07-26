@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtarget.a  CMakeFiles/target.dir/v4l2_core.cc.o
-/usr/bin/ranlib libtarget.a

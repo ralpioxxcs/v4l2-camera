@@ -1,3 +1,0 @@
-/home/hong/Desktop/Git/v4l2-camera/build/CMakeFiles/rebuild_cache.dir
-/home/hong/Desktop/Git/v4l2-camera/build/CMakeFiles/target.dir
-/home/hong/Desktop/Git/v4l2-camera/build/CMakeFiles/edit_cache.dir
